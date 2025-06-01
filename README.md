@@ -31,9 +31,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Harigovind's GitHub stats](https://github-readme-stats.vercel.app/api?username=harigovindhemachandran&show_icons=true&theme=tokyonight)
+![Harigovind's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarigovindH005&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harigovindhemachandran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarigovindH005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
