@@ -11,13 +11,13 @@
 
 🌱 Learning **Data Science, Deep Learning, and Full-stack development**
 
-🎓 Student at **Vimal Jyothi Engineering College (CSE, AI & DS stream)**
+🎓 Student at **Vimal Jyothi Engineering College (AI & DS stream)**
 
-📫 Reach me at: **harigovindhemachandran@gmail.com**
+📫 Reach me at: **harigovind.h.005@gmail.com**
 
 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/harigovindhemachandran)
-- [GitHub](https://github.com/harigovindhemachandran)
+- [GitHub](https://github.com/HarigovindH005)
 
 ---
 
